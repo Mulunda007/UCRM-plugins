@@ -1,0 +1,5 @@
+For the convenient functionality of UCRM in Angola, we intend to create a plugin for integration of the
+Multicaixa payment system with UCRM, in each billing email sent it sends the payment reference created 
+by the Proxypay API and similarly when a payment with reference occurs created be sent to the event to 
+settle the invoice or the amount paid
+Proxypay doc https://developer.proxypay.co.ao/v2/?php#introduction
